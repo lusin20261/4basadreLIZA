@@ -1,0 +1,7 @@
+print("========================bienbenido a mi tienda===========================")
+vendedor= input("ingresa el nombre del vendedor: ")
+comprador= input("ingrese el nombre del comprador: ")
+producto= input("ingrese el nombre el primer producto: ")
+print=("PRIMER PRODUCTO")
+precio = input("Ingresa el precio del producto: ")
+precio = int(precio)
